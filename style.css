@@ -2,7 +2,98 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 180px;
+    padding: 110px;
     gap: -150px;
     background-color: rgb(255, 240, 235);
+}
+
+.big-tulip{
+height: 500px;
+width: 400px;
+
+}
+
+h1{
+    font-size: 60px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.btn{
+    padding: 15px 25px;
+    background-color: rgb(218, 31, 93);
+    color: whitesmoke;
+    border-radius: 4px;
+    border: 0px;
+    font-size: 20px;
+    
+}
+
+.headline{
+    text-align: center;
+}
+
+.photo-family{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 0px;
+}
+
+.pink{
+    text-decoration: underline;
+    font-size: 20px;
+    
+}
+
+.tulip1{
+    background-color: rgb(231, 177, 186);
+    border-radius: 150px  150px 0px 0px;
+    width: 300px;
+    padding-top: 16px;
+    
+}
+.tulip2{
+    background-color: rgb(155, 238, 165);
+    border-radius: 150px  150px 0px 0px;
+    height: 400px;
+    padding-top: 30px;
+    width: 300px;
+    
+    
+}
+.tulip3{
+    background-color: rgb(180, 171, 234);
+    border-radius: 150px  150px 0px 0px;
+    height: 425px;
+    
+}
+
+.loyalti-program{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 200px;
+    padding: 50px;
+    background-color: rgb(171, 224, 206) ;
+    text-align: center;
+}
+
+.discount{
+    color: rgb(233, 41, 73);
+}
+
+.discount-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(226, 209, 187);
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.red-tulip{
+    text-align: center;
 }
