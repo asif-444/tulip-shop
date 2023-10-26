@@ -1,4 +1,4 @@
-.banner{
+.banner {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -7,32 +7,32 @@
     background-color: rgb(255, 240, 235);
 }
 
-.big-tulip{
-height: 500px;
-width: 400px;
+.big-tulip {
+    height: 500px;
+    width: 400px;
 
 }
 
-h1{
+h1 {
     font-size: 60px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
-.btn{
+.btn {
     padding: 15px 25px;
     background-color: rgb(218, 31, 93);
     color: whitesmoke;
     border-radius: 4px;
     border: 0px;
     font-size: 20px;
-    
+
 }
 
-.headline{
+.headline {
     text-align: center;
 }
 
-.photo-family{
+.photo-family {
     display: flex;
     text-align: center;
     align-items: center;
@@ -42,50 +42,52 @@ h1{
     padding-bottom: 0px;
 }
 
-.pink{
+.pink {
     text-decoration: underline;
     font-size: 20px;
-    
+
 }
 
-.tulip1{
+.tulip1 {
     background-color: rgb(231, 177, 186);
-    border-radius: 150px  150px 0px 0px;
+    border-radius: 150px 150px 0px 0px;
     width: 300px;
     padding-top: 16px;
-    
+
 }
-.tulip2{
+
+.tulip2 {
     background-color: rgb(155, 238, 165);
-    border-radius: 150px  150px 0px 0px;
+    border-radius: 150px 150px 0px 0px;
     height: 400px;
     padding-top: 30px;
     width: 300px;
-    
-    
-}
-.tulip3{
-    background-color: rgb(180, 171, 234);
-    border-radius: 150px  150px 0px 0px;
-    height: 425px;
-    
+
+
 }
 
-.loyalti-program{
+.tulip3 {
+    background-color: rgb(180, 171, 234);
+    border-radius: 150px 150px 0px 0px;
+    height: 425px;
+
+}
+
+.loyalti-program {
     display: flex;
     align-items: center;
     justify-content: space-around;
     margin: 200px;
     padding: 50px;
-    background-color: rgb(171, 224, 206) ;
+    background-color: rgb(171, 224, 206);
     text-align: center;
 }
 
-.discount{
+.discount {
     color: rgb(233, 41, 73);
 }
 
-.discount-section{
+.discount-section {
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -94,6 +96,57 @@ h1{
     padding-right: 200px;
 }
 
-.red-tulip{
+.red-tulip {
     text-align: center;
+}
+
+.insta {
+    text-align: center;
+}
+
+.gallery {
+    margin: 60px;
+    
+}
+
+.input-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.email {
+    padding: 16px;
+    border: 2px solid rgb(197, 118, 131);
+    border-radius: 4px;
+    width: 250px;
+    padding-bottom: 15px;
+}
+
+.deals {
+    background-image: url("./Flower Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    margin-left: 15px;
+    margin-right: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.deals-notice{
+    padding: 15px;
+}
+
+.flowershop{
+    background-color: black;
+    color: #fefcfc;
+    font-family: serif;
+    text-align: center;
+    padding: 120px 0px 120px 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+.footer-flower{
+    color: rgb(222, 25, 58);
+
 }
